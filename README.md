@@ -11,7 +11,7 @@ This project implements and compares several machine learning models—including
 ├── results.py                         # Aggregates results and generates plots
 ├── Datasets/                          # Hyperspectral datasets (.mat files)
 ├── plots/                             # Output accuracy plots
-├── results/                           # (Optional) Additional results
+├── results/                           # Additional results
 ├── README.md                          # Project documentation
 └── .gitignore
 ```
